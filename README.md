@@ -7,8 +7,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🔭 I’m an Embedded Software Engineer
-- 🌱 I’m currently learning Embedded Linux and C++
+- 🔭 I’m an Embedded Software Engineer with experience in Embedded Linux and C++
+- 🌱 I’m currently learning Mobile Development
 
 
 <h2 align="center">Let's Connect</h2>
@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,ros,git,github,cmake,eclipse,qt,bash,raspberrypi,vscode,visualstudio,nodejs" />
-    <img src="https://skillicons.dev/icons?i=express,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,linux,ros,git,github,cmake,eclipse,qt,bash,raspberrypi,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,js,html,css" />
   </a>
 </p>
