@@ -7,6 +7,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdelazizMaher&label=Profile%20views&color=0e75b6&style=flat" alt="AbdelazizMaher" /> </p>
+
 - 🔭 I’m an Embedded Software Engineer with experience in Embedded Linux and C++
 - 🌱 I’m currently learning Mobile Development
 
@@ -29,3 +31,13 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,js,html,css" />
   </a>
 </p>
+
+<h2 align="center">Status</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelazizMaher&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="135" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelazizMaher&radius=2&theme=redical&area=false&order=5&hide_border=true&hide_title=false" height="217" alt="activity-graph graph"  />
+</div>
+
+
+
