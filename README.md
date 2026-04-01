@@ -36,6 +36,5 @@
 <h2 align="center">Status</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelazizMaher&locale=en&layout=compact&theme=dracula" height="150" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelazizMaher&radius=2&theme=redical&area=false&hide_border=true" height="220" />
 </div>
