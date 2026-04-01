@@ -18,7 +18,6 @@ Android Engineer passionate about building scalable and high-performance mobile 
 - 📱 Focused on modern Android (Kotlin, Clean Architecture, Jetpack)
 - ⚙️ Interested in system design, performance optimization, and app architecture
 - 🔧 Background in Embedded Linux & C++
-- 🚀 Always learning and exploring new technologies
 
 <h2 align="center">🌐 Connect with Me</h2>
 
