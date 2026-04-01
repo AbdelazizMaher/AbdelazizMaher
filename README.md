@@ -11,9 +11,14 @@
   <img src="https://komarev.com/ghpvc/?username=AbdelazizMaher&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-- Android developer focused on building mobile applications  
-- Interested in architecture, system design, and performance  
-- Background in Embedded Linux and C++  
+## 👨‍💻 About Me
+
+Android Engineer passionate about building scalable and high-performance mobile applications.
+
+- 📱 Focused on modern Android (Kotlin, Clean Architecture, Jetpack)
+- ⚙️ Interested in system design, performance optimization, and app architecture
+- 🔧 Background in Embedded Linux & C++
+- 🚀 Always learning and exploring new technologies
 
 <h2 align="center">🌐 Connect with Me</h2>
 
