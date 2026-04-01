@@ -15,15 +15,21 @@
 - Interested in architecture, system design, and performance  
 - Background in Embedded Linux and C++  
 
-<h2 align="center">Connect</h2>
+<h2 align="center">🌐 Connect with Me</h2>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdelaziz-maher-9985b2229/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelazizmaher17499@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/AbdelazizMaher/)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdelaziz-maher-9985b2229/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:abdelazizmaher17499@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/AbdelazizMaher/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40"/>
+  </a>
+</p>
 
 <h2 align="center">Technologies & Tools</h2> 
 
